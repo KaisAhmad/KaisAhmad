@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=E2E2E2&center=true&width=600&height=100&lines=%F0%9F%91%8B+Hi+there!+I'm+Kais+Ahmad;I+am+a+fullstack+freelance+developer+from+the+Netherlands" />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=E2E2E2&center=true&width=700&height=100&lines=%F0%9F%91%8B+Hi+there!+I'm+Kais+Ahmad;I+am+a+fullstack+freelance+developer+from+the+Netherlands" />
   </a>
   <br>
 </h1>
